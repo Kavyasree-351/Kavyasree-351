@@ -22,11 +22,3 @@ Hey there! I’m Kavyasree — a curious mind with a love for building, learning
 <!---
 Kavyasree-351/Kavyasree-351 is a ✨ spotlight ✨ repo because its `README.md` shines right on your profile. Go ahead, click Preview 🌟
 --->
-
-
-# My Project
-
-![Build](https://github.com/me/myrepo/actions/workflows/ci.yml/badge.svg)
-![Issues](https://img.shields.io/github/issues/me/myrepo)
-![License](https://img.shields.io/github/license/me/myrepo)
-![Stars](https://img.shields.io/github/stars/me/myrepo?style=social)
