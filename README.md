@@ -44,7 +44,7 @@
 │   from autonomous robots cleaning coastlines                        │
 │   to 3D scene reconstruction from raw image sequences.              │
 │                                                                     │
-│   When I'm not training models, I play Carnatic classical music.    │
+│   When I'm not training models, I sing Carnatic classical music.    │
 │   Both require the same thing: pattern, precision, and practice.    │
 │                                                                     │
 │   ◉  Project Lead  →  VAKAN Marine Robot (startup)                  │
