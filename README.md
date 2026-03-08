@@ -171,7 +171,7 @@ FCNN MNIST Visualizer:
 ◈  IHRSSC 2024            ──────  Research on FeSTEM & Women in STEM
 ◈  VAKAN Startup          ──────  Autonomous marine robotics · Dubai
 ◈  Yuva Volunteer         ──────  15+ community service initiatives
-◈  Bring a Smile          ──────  Taught CS to individuals in shelter camps
+
 ```
 
 ---
