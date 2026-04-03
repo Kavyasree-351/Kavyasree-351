@@ -146,21 +146,6 @@ FCNN MNIST Visualizer:
 
 <div align="center">
 
-## ✦ METRICS ✦
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kavyasree-351&show_icons=true&bg_color=0a0f0f&title_color=2dd4bf&icon_color=f59e0b&text_color=e2e8f0&border_color=2dd4bf&border_radius=8&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavyasree-351&layout=compact&bg_color=0a0f0f&title_color=2dd4bf&text_color=e2e8f0&border_color=2dd4bf&border_radius=8&langs_count=6"/>
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kavyasree-351&theme=dark&background=0a0f0f&border=2dd4bf&ring=f59e0b&fire=f59e0b&currStreakLabel=2dd4bf&sideLabels=e2e8f0&dates=94a3b8&border_radius=8)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
 ## ✦ BEYOND THE CODE ✦
 
 </div>
