@@ -1,192 +1,38 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--           KAVYASREE NUNNA — GITHUB PROFILE README          -->
-<!--              Ancient Meets Future · AI/ML Engineer          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+# Kavyasree Nunna
 
-<div align="center">
+**AI & Embodied Systems Researcher · Final-Year B.Tech. Computer Science @ BITS Pilani, Dubai Campus**
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+I build and rigorously evaluate AI systems across **bounded long-horizon memory for language agents** and **uncertainty-aware 3D vision-language perception for mobile robotics**.
 
-<br/>
-
-# ꧁ KAVYASREE NUNNA ꧂
-
-### `[ AI/ML Engineer · Computer Vision · Robotics ]`
-
-*Building machines that see. Rooted in tradition. Reaching toward the future.*
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=14&pause=1200&color=2DD4BF&center=true&vCenter=true&width=650&lines=AI+Engineer+%40+BITS+Pilani+Dubai;Leading+VAKAN+%E2%80%94+Autonomous+Marine+Robot;Computer+Vision+%7C+PyTorch+%7C+YOLOv8+%7C+ROS2;2D+%E2%86%92+3D+Reconstruction+Researcher;Carnatic+Musician+%F0%9F%8E%B5+%7C+Kalakshetra+Graduate;Where+ancient+wisdom+meets+future+machines)](https://git.io/typing-svg)
-
-<br/>
-
-```
-◈──────────────◈ ✦ ◈──────────────◈
-```
-
-</div>
+* 📍 **Location:** Dubai, UAE (Open to UAE research collaborations & Spring 2027 Practice School II thesis placements)
+* 📫 **Email:** [sree.kn3501@gmail.com](mailto:sree.kn3501@gmail.com) | [f20230072@dubai.bits-pilani.ac.in](mailto:f20230072@dubai.bits-pilani.ac.in)
+* 🔗 **Links:** [LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
 
 ---
 
-<div align="center">
-
-## ✦ WHO AM I ✦
-
-</div>
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   Pre-final year · BITS Pilani, Dubai Campus                        │
-│                                                                     │
-│   I build AI systems that perceive the physical world —             │
-│   from autonomous robots cleaning coastlines                        │
-│   to 3D scene reconstruction from raw image sequences.              │
-│                                                                     │
-│   When I'm not training models, I sing Carnatic classical music.    │
-│   Both require the same thing: pattern, precision, and practice.    │
-│                                                                     │
-│   ◉  Project Lead  →  VAKAN Marine Robot (startup)                  │
-│   ◉  Researcher    →  CV & Photogrammetry @ BITS Pilani             │
-│   ◉  Musician      →  Carnatic · Kalakshetra Foundation             │
-│   ◉  Location      →  Dubai, UAE                                    │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+### 🔬 Research Highlights & Preprints
+* **LLM Memory & Agents:** Developed **CHALM** (hybrid retrieval with centered prefix reads and an 8-slot recurrent state) and co-authored **LALM** for continuous-state conversational memory architectures evaluated over 5,000-turn synthetic dialogues.
+* **3D Vision & SLAM:** Built an RGB-D + YOLO + CLIP + SAM semantic mapping pipeline (*Submitted to MoSICom 2026*, [Code](https://github.com/VLM-Motion-Mapping-Mobile-LiDAR)), significantly reducing median relative depth errors and improving static correspondences.
+* **LiDAR Mapping:** Created **DiFEN** (staged occupancy-map verification on LILocBench) to minimize redundant cell updates (*Submitted to ACIIDS 2027*).
 
 ---
 
-<div align="center">
-
-## ✦ THE WORK ✦
-
-*Two timelines. One person.*
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**`// NOW — Building`**
-
-```yaml
-VAKAN Marine Robot:
-  role: Project Lead & SW Architect
-  status: ACTIVE
-  stack: [PyTorch, YOLOv8, ROS2, Python]
-  impact: +20% waste detection accuracy
-  mission: clean coastlines autonomously
-
-3D Reconstruction Research:
-  role: Research Student w/ PhD Scholar
-  status: ACTIVE
-  stack: [OpenCV, VLMap, RGB-D]
-  focus: 2D to 3D scene pipelines
-```
-
-</td>
-<td width="50%" valign="top">
-
-**`// BUILT — Shipped`**
-
-```yaml
-FrameForge AI Studio:
-  stack: [React, TypeScript, Vite, Node.js]
-  type: AI-powered web application
-
-Asteroid AI:
-  stack: [Vanilla JS, NEAT, Genetic Algo]
-  type: Neural net learns to dodge asteroids
-
-Raga Neuroevolution:
-  stack: [Python, NumPy, Matplotlib]
-  type: Carnatic music x AI visualization
-
-FCNN MNIST Visualizer:
-  stack: [TensorFlow, Keras, sklearn]
-  accuracy: 98.5% · 5 deep visualizations
-```
-
-</td>
-</tr>
-</table>
+### 🛠️ Featured Engineering Repositories
+* **[AgentShield](https://github.com/ai-agent-guardrail-project):** Runtime policy-enforcement layer with schema validation and risk scoring for autonomous AI agent tool calls.
+* **[LLM Routing Lifecycle Benchmarks](https://github.com/llm-routing-lifecycle-benchmarks):** CPU evaluation harness across 36,497 queries and 11 LLMs measuring router feedback and validation overhead.
+* **[VAKAN — Autonomous Marine Robotics](https://github.com):** Co-founder and strategy lead for an autonomous coastal cleanup prototype awarded the **SPARKS Innovation Grant (INR 200,000)** and featured on the **James Dyson Award 2025 UAE** national page.
 
 ---
 
-<div align="center">
-
-## ✦ STACK ✦
-
-**Deep Learning & Vision**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=yolo&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-**Robotics & Infrastructure**
-
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-**Web & Frontend**
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</div>
+### ⚙️ Technical Stack
+* **Deep Learning & Vision:** PyTorch, CLIP, YOLOv8, SAM, OpenCV, RGB-D Calibration, ROS2
+* **LLM Agents & Retrieval:** Bounded Memory Architectures, Dense/BM25 Retrieval, Reciprocal Rank Fusion (RRF), Multi-Seed Benchmarking
+* **Languages & Tools:** Python, C++, SQL, Docker, Git, React, Node.js
 
 ---
 
-<div align="center">
+### 🎶 Beyond the Lab
+* **Carnatic Classical Musician:** Trained at the **Kalakshetra Foundation** (Chennai, India) exploring structural parallels between rhythmic/melodic patterns and neural representations.
+* **Community & Leadership:** **Women Techmakers Dubai Ambassador** (Google) and **UN Millennium Fellow**.
 
-## ✦ BEYOND THE CODE ✦
-
-</div>
-
-```
-◈  Millennium Fellowship  ──────  UN Academic Impact Programme
-◈  Kalakshetra Foundation ──────  Carnatic music degree · Chennai, India
-◈  IHRSSC 2024            ──────  Research on FeSTEM & Women in STEM
-◈  VAKAN Startup          ──────  Autonomous marine robotics · Dubai
-◈  Yuva Volunteer         ──────  15+ community service initiatives
-
-```
-
----
-
-<div align="center">
-
-```
-◈──────────────◈ ✦ ◈──────────────◈
-```
-
-*"The ancient texts encoded knowledge in patterns.*
-*The neural network finds patterns in everything.*
-*Perhaps they were always the same thing."*
-
-```
-◈──────────────◈ ✦ ◈──────────────◈
-```
-
-<br/>
-
-**`sree.kn3501@gmail.com`** · **`Dubai, UAE`**
-
-*Open to research collabs · AI/CV projects · Internships*
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kavyasree-351&color=2dd4bf&style=flat-square&label=VISITORS)
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-
-</div>
+> *"The ancient texts encoded knowledge in patterns. The neural network finds patterns in everything. Perhaps they were always the same thing."*
